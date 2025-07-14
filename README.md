@@ -6,4 +6,5 @@ My current skillset: basics of Git and some basic HTML.
 
 Self-reflection at the end of a project:
 
-...to be continued.
+So, it was definitely fun, like building simplistic puzzle, stitching pieces together. Can't wait to come back to it later with new tools at my disposal.
+Should be interesting to measure my progress in the future. 
