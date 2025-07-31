@@ -1,0 +1,47 @@
+* ,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+ul {
+    width: 350px;
+    margin: 0px auto;
+    list-style-type: none;
+}
+
+li {
+    width: 300px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+img {
+    width: 280px;
+    margin: 8px;
+}
+
+a {
+    margin-bottom: 8px;
+}
+
+img,
+a {
+    display: block;
+}
