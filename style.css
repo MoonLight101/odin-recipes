@@ -14,24 +14,51 @@
     padding: 20px 10px;
 }
 
+.siteName {
+    text-align: left;
+    display: inline-block;
+    text-decoration: none;
+    Color: black;
+}
+
+.home {
+    float: right;
+    text-decoration: none;
+    Color: black;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.home:hover {
+    background-color: #ddd;
+}
+
 .content {
-    width: 600px;
+    width: 80%;
     margin: 30px auto;
     text-align: center;
 }
 
-.siteName {
-    text-align: left;
-    display: inline-block;
-}
-
-.home {
-    display: inline-block;
-    margin-left: 80%;
-}
-
 .pageName {
     margin-bottom: 20px;
+}
+
+.allRecipes {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.recipe {
+    border: 1px solid black;
+}
+
+.recipe img {
+    margin: 8px auto;
+}
+
+.recipe a {
+    margin-bottom: 8px;
 }
 
 ul {
@@ -49,11 +76,6 @@ li {
 
 img {
     width: 280px;
-    margin: 8px;
-}
-
-a {
-    margin-bottom: 8px;
 }
 
 img,
