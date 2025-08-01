@@ -9,14 +9,29 @@
     padding: 0px;
 }
 
-body {
-    width: 400px;
+.header {
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+.content {
+    width: 600px;
     margin: 30px auto;
     text-align: center;
 }
 
-h1 {
-    margin-bottom: 30px;
+.siteName {
+    text-align: left;
+    display: inline-block;
+}
+
+.home {
+    display: inline-block;
+    margin-left: 80%;
+}
+
+.pageName {
+    margin-bottom: 20px;
 }
 
 ul {
